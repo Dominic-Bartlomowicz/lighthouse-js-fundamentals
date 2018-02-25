@@ -14,7 +14,7 @@ for (var i = array.length; i >= 0; i--)
 		if ((array[i]) == value)
 			
 			{
-				console.log(i);
+				result = i;
 				end = true;
 			
 				break;
