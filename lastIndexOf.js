@@ -5,7 +5,7 @@ function lastIndexOf(array,value)
 console.log("\n");
 
 var end = false;
-var result = 0;		
+var result;		
 
 for (var i = array.length; i >= 0; i--)
 	
