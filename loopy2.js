@@ -67,7 +67,7 @@ else
 }
 
 
-// Testing the above function with sample inputs
+// Testing the above function with sample inputs 
 
 loopyLighthouse([15, 90], [2, 5], ["Batty", "Beacon"]);
 
